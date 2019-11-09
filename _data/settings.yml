@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Geeky Hokage
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: nibir2893@email.com
+phone: +919511330190
+address: D-605, Hall-13, IIT Kanpur, India
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,13 +35,12 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! THis is <br> Nibir <br> Machine Learning enthusiast
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/nibir.baruah.7545"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/nibir952"}
+- {icon: "ti-linkedin", link: "linkedin.com/in/nibir-baruah-30229a190"}
 
 
 #-------------------------------
